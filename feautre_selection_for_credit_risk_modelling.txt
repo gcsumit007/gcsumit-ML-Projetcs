@@ -1,0 +1,5 @@
+1. https://software.intel.com/en-us/articles/credit-risk-classification-faster-machine-learning-with-intel-optimized-packages
+
+2. https://towardsdatascience.com/a-feature-selection-tool-for-machine-learning-in-python-b64dd23710f0
+
+3. https://tamiu-ir.tdl.org/bitstream/handle/2152.4/51/HUANG-DISSERTATION-2014.pdf?sequence=1&isAllowed=y
